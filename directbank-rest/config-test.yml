@@ -105,4 +105,4 @@ mybatis:
 
 
 config:
-  info: test-${spring.application.name}
+  info: test-${spring.application.name}-validate

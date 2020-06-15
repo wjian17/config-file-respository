@@ -1,6 +1,4 @@
 # 服务端口号
-server:
-  port: 8767
 
 #client 相关配置
 eureka:

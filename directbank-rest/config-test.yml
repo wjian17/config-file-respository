@@ -21,7 +21,7 @@ eureka:
 
 spring:
   application:
-    name: study-nacos-order
+    name: study-config-order
   cloud:
     #注册consul地址
     consul:
